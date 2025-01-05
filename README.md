@@ -1,4 +1,5 @@
 # App-6
+IOT Aircon alarm monitoring system.
 
 ### Technologies:
 #### Flutter:
