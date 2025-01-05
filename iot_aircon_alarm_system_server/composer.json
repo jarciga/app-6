@@ -1,0 +1,25 @@
+{
+    "name": "adnuacrms/project",
+    "type": "standard",
+    "description": "Standard for PHP package skeletons.",
+    "homepage": "https://github.com/php-pds/skeleton",
+    "license": "CC-BY-SA-4.0",
+    "autoload": {
+        "psr-4": {
+            "AdnuAcrms\\App\\": "src/",
+            "AdnuAcrms\\Models\\": "src/Models/",
+            "AdnuAcrms\\Views\\": "src/Views/",
+            "AdnuAcrms\\Controllers\\": "src/Controllers/",
+            "AdnuAcrms\\Config\\": "config/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "AdnuAcrms\\Tests\\": "tests/"
+        }
+    },
+    "bin": ["bin/adnuacrms-project"],
+    "require": {
+        "phpmailer/phpmailer": "^6.6"
+    }
+}
