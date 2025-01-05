@@ -1,4 +1,4 @@
-# pds/skeleton
+# IOT Aircon Alarm System Server
 
 This publication describes a standard filesystem skeleton suitable for all PHP
 packages.
