@@ -1,6 +1,6 @@
 # iot_aircon_alarm_system
 
-IOT Aircon Alarm System
+IOT Aircon Alarm System Client
 
 ## Getting Started
 
